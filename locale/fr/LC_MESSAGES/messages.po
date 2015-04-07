@@ -84,7 +84,7 @@ msgstr "Groupes"
 #: includes/admin.php:90 includes/admin.php:100 includes/cadmin.php:104
 #: includes/cadmin.php:131
 msgid "Edit Groups"
-msgstr ""
+msgstr "Editer Groupes"
 
 #: includes/admin.php:106 includes/user_create.php:51
 msgid "Create User"
@@ -96,7 +96,7 @@ msgstr "Liste des utilisateurs"
 
 #: includes/admin.php:121
 msgid "Import Form"
-msgstr ""
+msgstr "Formulaire d'import"
 
 #: includes/admin.php:122
 msgid "MySQL Host Name"
@@ -140,11 +140,11 @@ msgstr ""
 
 #: includes/admin.php:153
 msgid "Generate Translations"
-msgstr ""
+msgstr "Génerer la traduction"
 
 #: includes/cadmin.php:31
 msgid "Calendar Configuration"
-msgstr ""
+msgstr "Configuration du calendrier"
 
 #: includes/cadmin.php:35
 msgid "Categories"
@@ -227,7 +227,7 @@ msgstr "Couleur d'arrière-plan"
 
 #: includes/cadmin.php:177
 msgid "Visible to User Group"
-msgstr ""
+msgstr "Visilbe au groupe d'utilisateur"
 
 #: includes/cadmin.php:178 includes/cadmin.php:219
 msgid "Actions"
@@ -249,7 +249,7 @@ msgstr "Permission refusée"
 
 #: includes/cadmin_submit.php:39
 msgid " was not set."
-msgstr ""
+msgstr " pas encore défini"
 
 #: includes/cadmin_submit.php:46
 msgid "Updated options"
@@ -289,15 +289,15 @@ msgstr "Rechercher"
 
 #: includes/calendar.php:483
 msgid "View Month"
-msgstr ""
+msgstr "Voir mois"
 
 #: includes/calendar.php:488
 msgid "View date"
-msgstr ""
+msgstr "Voir date"
 
 #: includes/calendar.php:492
 msgid "Calendar Admin"
-msgstr ""
+msgstr "Calendrier Admin"
 
 #: includes/calendar.php:527 includes/calendar.php:588
 #: includes/calendar.php:597 includes/settings.php:81
@@ -386,7 +386,7 @@ msgstr "Jour Mois Année"
 
 #: includes/calendar.php:649
 msgid "You do not have permission to do that: "
-msgstr ""
+msgstr "Vous n'avez pas les permissions de faire ceci: "
 
 #: includes/calendar.php:662 includes/util.php:156
 msgid "Error"
@@ -398,7 +398,7 @@ msgstr ""
 
 #: includes/calendar.php:676
 msgid "Invalid action"
-msgstr ""
+msgstr "Action invalide"
 
 #: includes/calendar.php:721
 msgid "Secret token mismatch. Possible request forgery attempt."
@@ -420,7 +420,7 @@ msgstr ""
 
 #: includes/calendar.php:834
 msgid "Unrecognized period: "
-msgstr ""
+msgstr "Période non reconnu"
 
 #: includes/calendar.php:842
 #, php-format
@@ -451,7 +451,7 @@ msgstr "Confirmer"
 #: includes/event_delete.php:51 includes/group_delete.php:54
 #: includes/occurrence_delete.php:53 includes/user_delete.php:55
 msgid "Deny"
-msgstr ""
+msgstr "Refuser"
 
 #: includes/calendar_delete.php:58
 msgid "You do not have permission to remove calendar"
@@ -475,11 +475,11 @@ msgstr "Pas de catégorie sélectionnée."
 
 #: includes/category_delete.php:63
 msgid "You do not have permission to delete category: "
-msgstr ""
+msgstr "Vous n'avez pas la permission de supprimer cette catégorie :"
 
 #: includes/category_delete.php:68
 msgid "Removed category: "
-msgstr ""
+msgstr "Catégorie supprimé: "
 
 #: includes/category_delete.php:71
 msgid "Could not remove category: "
@@ -499,27 +499,27 @@ msgstr ""
 
 #: includes/category_submit.php:33
 msgid "Color not specified."
-msgstr ""
+msgstr "Couleur non spécifié."
 
 #: includes/category_submit.php:47
 msgid "Invalid color."
-msgstr ""
+msgstr "Couleur invalide."
 
 #: includes/category_submit.php:55
 msgid "You do not have permission to add categories to all calendars."
-msgstr ""
+msgstr "Vous n'avez pas la permission d'ajouter des catégories à tout les calendriers."
 
 #: includes/category_submit.php:60
 msgid "You do not have permission to add categories to this calendar."
-msgstr ""
+msgstr "Vous n'avez pas la permission d'ajouter des catégories à ce calendrier."
 
 #: includes/category_submit.php:73
 msgid "You do not have permission to modify this category."
-msgstr ""
+msgstr "Vous n'avez pas la permission de modifier cette catégorie."
 
 #: includes/category_submit.php:82
 msgid "Modified category: "
-msgstr ""
+msgstr "Catégorie modifié"
 
 #: includes/category_submit.php:86
 msgid "Created category: "
